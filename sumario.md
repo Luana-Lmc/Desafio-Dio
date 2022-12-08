@@ -1,0 +1,28 @@
+# Sumario 
+
+
+
+
+
+- Comandos básicos Windows
+- Primeiros comando no Git
+
+- Typora e Markdown
+
+- Entendendo o GIT
+
+- Configuração de Usuario Git
+
+- Meu primeiro **Commit** 
+
+- Estado dos documentos no sistema
+
+- Recapitulando com o cod
+
+- Configuração da chave SSh GitHub
+
+- GitHub 
+
+- Conflitos no GitHub
+
+- Como realente foi na pratica!
