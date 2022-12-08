@@ -5,9 +5,6 @@
 
 
 - Comandos básicos Windows
-- Primeiros comando no Git
-
-- Typora e Markdown
 
 - Entendendo o GIT
 
